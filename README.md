@@ -1,2 +1,3 @@
-# VadaProject.github.io
-Project website
+# The Vada Project
+
+Senior Project for Kennesaw State University 2022

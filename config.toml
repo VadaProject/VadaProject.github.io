@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/' # This will be updated to vadaproject.github.io
+languageCode = 'en-us'
+title = 'Site for Senior Project'
+theme = "ananke"

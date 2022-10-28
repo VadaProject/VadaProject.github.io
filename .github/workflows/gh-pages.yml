@@ -1,4 +1,4 @@
-name: github pages
+name: Pages build and deploy
 
 on:
   push:
@@ -22,9 +22,10 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build with Hugo
-        run: hugo \
-             --minify \
-             --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: |
+          hugo \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
         
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v1

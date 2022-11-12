@@ -12,11 +12,11 @@ The main purposes of this site are to:
 
 ## Introduce the members of the team and what each person is working on:
   - Mae Morrella (Lead developer) 
-     ![photo of Mae](../images/mae.png)
+     ![photo of Mae](../../images/mae.png)
   - Leafy Wilson (Lead developer/creator of initial website) 
-     ![photo of Leafy](../images/leafy.png)
+     ![photo of Leafy](../../images/leafy.png)
   - Alexa Garcia (Developer)
-     ![photo of Alexa](../images/alexa.png)
+     ![photo of Alexa](../../images/alexa.png)
   - Braxton Meyer (Developer)
-     ![photo of Braxton](../images/braxton.png)
+     ![photo of Braxton](../../images/braxton.png)
 

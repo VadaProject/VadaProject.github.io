@@ -1,4 +1,62 @@
 baseURL = 'http://example.org/' # This will be updated to vadaproject.github.io
 languageCode = 'en-us'
 title = 'Indy-2: The Vāda Project'
+config = "config.toml"
 theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[Params]
+  tagline = ""
+  author = "Braxton Meyer"
+  description = "This project is for showing changes to the Vada Project"
+  logoBig = "/images/vp-logo-words.png"
+  logoSmall = "/images/vp-logo-circ.png"
+  favicon = "favicon.ico"
+  opengraphImage = "/images/osprey.png"
+  email = ""
+  googleTagManager = ""
+  customCSS = false
+
+  # Disable all besides the GitHub
+  # Social media links in footer
+  #twitter = "TomaNistor"
+  #linkedin = "tomanistor"
+  github = "vadaproject"
+  #facebook = ""
+
+  # Copyright and theme author credit in footer
+  copyright = false
+  credit = false
+
+  # Cache busting of static resources (additional set up required)
+  cacheBustCSS = true
+  cacheBustJS = true
+
+  # Code highlighting with highlight.js
+
+  # Choose either Formspree contact form or Basin contact form
+  ajaxFormspree = false
+  ajaxFormspreeGold = false
+  ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
+
+  # Lazy loading with lazysizes
+  lazyloading = true
+
+[[menu.main]]
+  name = "Purpose"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Meet the Team!"
+  url  = "/#team-members"
+  weight = 2
+[[menu.main]]
+  name = "Blog"
+  url  = "/#blog"
+  weight = 3
+[[menu.main]]
+  name = "Contact"
+  url  = "/#contact"
+  weight = 4

@@ -8,7 +8,7 @@ googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Params]
-  tagline = ""
+  tagline = "A collaborative web app for philosophical debate"
   author = "Braxton Meyer"
   description = "This project is for showing changes to the Vada Project"
   logoBig = "/images/vp-logo-blue.svg"

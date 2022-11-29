@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Indy-2: The Vāda Project</title>
+    <link>http://vadaproject.github.io/gallery/</link>
+    <description>Recent content in Galleries on Indy-2: The Vāda Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Nov 2022 01:25:00 -0500</lastBuildDate><atom:link href="http://vadaproject.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Alexa Garcia</title>
+      <link>http://vadaproject.github.io/gallery/alexa-headshot/</link>
+      <pubDate>Tue, 29 Nov 2022 01:25:00 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/gallery/alexa-headshot/</guid>
+      <description>Alexa Garcia is a Senior Computer Science Major, and has primary interests in [blank]</description>
+    </item>
+    
+    <item>
+      <title>Braxton Headshot</title>
+      <link>http://vadaproject.github.io/gallery/braxton-headshot/</link>
+      <pubDate>Tue, 29 Nov 2022 01:24:49 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/gallery/braxton-headshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leafy Headshot</title>
+      <link>http://vadaproject.github.io/gallery/leafy-headshot/</link>
+      <pubDate>Tue, 29 Nov 2022 01:24:37 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/gallery/leafy-headshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Mae Morella</title>
+      <link>http://vadaproject.github.io/gallery/mae-headshot/</link>
+      <pubDate>Tue, 15 Nov 2022 12:23:37 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/gallery/mae-headshot/</guid>
+      <description>Mae B. Morella (she/her) is a Computer Science major with minors in Software Engineering and Professional Writing. She graduates in May of 2023, and seeking positions in programming, web development, and usability engineering. For the Vada</description>
+    </item>
+    
+  </channel>
+</rss>

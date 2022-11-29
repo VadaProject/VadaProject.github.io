@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indy-2: The Vāda Project</title>
+    <link>http://vadaproject.github.io/</link>
+    <description>Recent content on Indy-2: The Vāda Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Nov 2022 01:25:00 -0500</lastBuildDate><atom:link href="http://vadaproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Alexa Garcia</title>
+      <link>http://vadaproject.github.io/gallery/alexa-headshot/</link>
+      <pubDate>Tue, 29 Nov 2022 01:25:00 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/gallery/alexa-headshot/</guid>
+      <description>Alexa Garcia is a Senior Computer Science Major, and has primary interests in [blank]</description>
+    </item>
+    
+    <item>
+      <title>Braxton Headshot</title>
+      <link>http://vadaproject.github.io/gallery/braxton-headshot/</link>
+      <pubDate>Tue, 29 Nov 2022 01:24:49 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/gallery/braxton-headshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leafy Headshot</title>
+      <link>http://vadaproject.github.io/gallery/leafy-headshot/</link>
+      <pubDate>Tue, 29 Nov 2022 01:24:37 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/gallery/leafy-headshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Mae Morella</title>
+      <link>http://vadaproject.github.io/gallery/mae-headshot/</link>
+      <pubDate>Tue, 15 Nov 2022 12:23:37 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/gallery/mae-headshot/</guid>
+      <description>Mae B. Morella (she/her) is a Computer Science major with minors in Software Engineering and Professional Writing. She graduates in May of 2023, and seeking positions in programming, web development, and usability engineering. For the Vada</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://vadaproject.github.io/about/</link>
+      <pubDate>Sat, 12 Nov 2022 11:03:07 -0500</pubDate>
+      
+      <guid>http://vadaproject.github.io/about/</guid>
+      <description>Vada Project is a website for philosophical debate Our goals with this project are to:
+Improve codebase for future devs Improve the UI for the end user #TODO link to blog. Setup blog The progress made towards these goals can be viewed, alongside relevant documents on our blog </description>
+    </item>
+    
+    <item>
+      <title>About the Vada Project</title>
+      <link>http://vadaproject.github.io/posts/about/</link>
+      <pubDate>Thu, 13 Oct 2022 13:39:16 -0400</pubDate>
+      
+      <guid>http://vadaproject.github.io/posts/about/</guid>
+      <description>Hello, and welcome to the VadaProject Senior Project website. The main purposes of this site are to:
+Document the milestones for Senior Project class easily showcase the changes made to the proper vada website Introduce the members of the team and what each person is working on: Mae Morrella (Lead developer) Leafy Wilson (Lead developer/creator of initial website) Alexa Garcia (Developer) Braxton Meyer (Developer) </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Indy-2: The Vāda Project</title>
+    <link>http://vadaproject.github.io/posts/</link>
+    <description>Recent content in Posts on Indy-2: The Vāda Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Oct 2022 13:39:16 -0400</lastBuildDate><atom:link href="http://vadaproject.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Vada Project</title>
+      <link>http://vadaproject.github.io/posts/about/</link>
+      <pubDate>Thu, 13 Oct 2022 13:39:16 -0400</pubDate>
+      
+      <guid>http://vadaproject.github.io/posts/about/</guid>
+      <description>Hello, and welcome to the VadaProject Senior Project website. The main purposes of this site are to:
+Document the milestones for Senior Project class easily showcase the changes made to the proper vada website Introduce the members of the team and what each person is working on: Mae Morrella (Lead developer) Leafy Wilson (Lead developer/creator of initial website) Alexa Garcia (Developer) Braxton Meyer (Developer) </description>
+    </item>
+    
+  </channel>
+</rss>

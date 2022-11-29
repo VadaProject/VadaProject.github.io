@@ -45,7 +45,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   lazyloading = true
 
 [[menu.main]]
-  name = "Purpose"
+  name = "About"
   url  = "/#about"
   weight = 1
 [[menu.main]]

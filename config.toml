@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/' # This will be updated to vadaproject.github.io
 languageCode = 'en-us'
-title = 'Indy-2: The Vāda Project'
+title = 'Vada Project (UC-304)'
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   logoBig = "/images/vp-logo-blue.svg"
   logoSmall = "/images/icon.svg"
   favicon = "/images/icon.svg"
-  opengraphImage = "/images/osprey.png"
+  opengraphImage = "/images/opengraph.png"
   email = ""
   googleTagManager = ""
   customCSS = false
@@ -23,11 +23,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # Social media links in footer
   #twitter = "TomaNistor"
   #linkedin = "tomanistor"
-  github = "vadaproject"
+  github = "VadaProject"
   #facebook = ""
 
   # Copyright and theme author credit in footer
-  copyright = false
+  copyright = true
   credit = false
 
   # Cache busting of static resources (additional set up required)
@@ -37,9 +37,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # Code highlighting with highlight.js
 
   # Choose either Formspree contact form or Basin contact form
-  ajaxFormspree = false
-  ajaxFormspreeGold = false
-  ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
+  # ajaxFormspree = false
+  # ajaxFormspreeGold = false
+  # ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
 
   # Lazy loading with lazysizes
   lazyloading = true
@@ -50,9 +50,5 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   weight = 1
 [[menu.main]]
   name = "Team"
-  url  = "/#team-members"
+  url  = "/#work"
   weight = 2
-[[menu.main]]
-  name = "Blog"
-  url  = "/#blog"
-  weight = 3

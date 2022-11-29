@@ -1,6 +1,6 @@
 baseURL = 'https://vadaproject.github.io/' # This will be updated to vadaproject.github.io
 languageCode = 'en-us'
-title = 'Vada Project (UC-304)'
+title = 'Vada Project'
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
@@ -9,8 +9,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [Params]
   tagline = "A collaborative web app for philosophical debate"
-  author = "Braxton Meyer"
-  description = "This project is for showing changes to the Vada Project"
+  author = "Leafy Wilson, Mae B. Morella, Braxton Meyer, Alexa Garcia"
+  description = "A senior project in computer science and philosophy, undertaken in Fall 2022 at Kennesaw State University."
   logoBig = "/images/vp-logo-blue.svg"
   logoSmall = "/images/icon.svg"
   favicon = "/images/icon.svg"

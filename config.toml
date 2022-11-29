@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/' # This will be updated to vadaproject.github.io
+baseURL = 'https://vadaproject.github.io/' # This will be updated to vadaproject.github.io
 languageCode = 'en-us'
 title = 'Vada Project (UC-304)'
 config = "config.toml"
@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   logoBig = "/images/vp-logo-blue.svg"
   logoSmall = "/images/icon.svg"
   favicon = "/images/icon.svg"
-  opengraphImage = "https://vadaproject.github.io/images/opengraph.png"
+  opengraphImage = "/images/opengraph.png"
   email = ""
   googleTagManager = ""
   customCSS = false

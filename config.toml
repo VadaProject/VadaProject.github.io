@@ -52,3 +52,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   name = "Team"
   url  = "/#team"
   weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

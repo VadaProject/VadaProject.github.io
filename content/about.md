@@ -6,13 +6,26 @@ draft: False
 
 ## Introduction
 
-The Vāda Project is a web application that teaches pramāṇa-vāda, a classic style of philosophical debate developed in ancient India and used for over a millennium. This debate format is designed to promote critical thought and reflection through its logical structure of theses and counter. This semester-long project was undertaken as a collaboration between students and faculty within the College of Computing and KSU philosophy department. Developers acquired the philosophy department’s existing codebase, developed, refactored, and maintained a web-based UI and PHP+SQL server backend to deliver a well-documented and maintainable interactive platform for epistemological discussion.
+The Vāda Project is a web application that teaches pramāṇa-vāda, a classic style of philosophical debate developed in ancient India and used for over a millennium.
+
+This debate format is designed to promote critical thought and reflection through its logical structure of theses and counter.
+
+This semester-long project was undertaken as a collaboration between students and faculty within the College of Computing and KSU philosophy department.
+
+Developers acquired the philosophy department’s existing codebase, developed, refactored, and maintained a web-based UI and PHP+SQL server backend to deliver a well-documented and maintainable interactive platform for epistemological discussion.
 
 ## Methods
-Through weekly meetings with end-users, and closely following the software development life cycle, a team of student developers delivered a codebase which emphasizes (1) usability and accessibility and (2) maintainability by future developers. Developers applied industry best-practices (user centered design, version-control, testing, and continuous integration) to discover and meet all requirements.
+Through weekly meetings with end-users, and closely following the software development life cycle, a team of student developers delivered a codebase which emphasizes,
+
+1. Usability and accessibility
+2. Maintainability by future developers
+3. Adherence to high-quality code standards
+
+Developers applied industry best-practices (user centered design, version-control, testing, and continuous integration) to discover and meet all requirements.
 
 ## Version Control
-* View the repository at [github.com/vadaproject/application](https://github.com/vadaproject/application)
+* [View the repository on GitHub](https://github.com/vadaproject/application)
+
 To enable present and future collaboration, developers closely used a GitHub repository to track changes. Code is deployed live from this repository to the production site. GitHub Actions perform automated code quality tests.
 
 ## Results

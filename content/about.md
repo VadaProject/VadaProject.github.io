@@ -14,6 +14,22 @@ This semester-long project was undertaken as a collaboration between students an
 
 Developers acquired the philosophy department’s existing codebase, developed, refactored, and maintained a web-based UI and PHP+SQL server backend to deliver a well-documented and maintainable interactive platform for epistemological discussion.
 
+## Team
+
+- Leafy Wilson (Lead developer/creator of initial website) 
+    - [GitHub](https://github.com/ruthanawilson)
+- Mae B. Morella (Programming lead)
+    - [GitHub](https://github.com/morellam-dev)
+    - [LinkedIn](https://www.linkedin.com/in/morellam/)
+- Alexa Garcia (Document lead)
+    - [GitHub](https://github.com/alexagar)
+    - [LinkedIn](https://www.linkedin.com/in/alexa-garcia-553b7721a/)
+- Braxton Meyer (Website lead)
+    - [GitHub](https://github.com/BraxtonMDevelops)
+    - [LinkedIn](https://www.linkedin.com/in/braxton-meyer-852aba177/)
+
+
+
 ## Methods
 Through weekly meetings with end-users, and closely following the software development life cycle, a team of student developers delivered a codebase which emphasizes,
 

@@ -14,22 +14,6 @@ This semester-long project was undertaken as a collaboration between students an
 
 Developers acquired the philosophy department’s existing codebase, developed, refactored, and maintained a web-based UI and PHP+SQL server backend to deliver a well-documented and maintainable interactive platform for epistemological discussion.
 
-## Team
-
-- Leafy Wilson (Lead developer/creator of initial website) 
-    - [GitHub](https://github.com/ruthanawilson)
-- Mae B. Morella (Programming lead)
-    - [GitHub](https://github.com/morellam-dev)
-    - [LinkedIn](https://www.linkedin.com/in/morellam/)
-- Alexa Garcia (Document lead)
-    - [GitHub](https://github.com/alexagar)
-    - [LinkedIn](https://www.linkedin.com/in/alexa-garcia-553b7721a/)
-- Braxton Meyer (Website lead)
-    - [GitHub](https://github.com/BraxtonMDevelops)
-    - [LinkedIn](https://www.linkedin.com/in/braxton-meyer-852aba177/)
-
-
-
 ## Methods
 Through weekly meetings with end-users, and closely following the software development life cycle, a team of student developers delivered a codebase which emphasizes,
 
@@ -46,3 +30,23 @@ To enable present and future collaboration, developers closely used a GitHub rep
 
 ## Results
 Students and staff in the philosophy department responded very positively to UI changes, and overall code quality increased. The project is actively being used as a teaching tool. Introducing students to non-western philosophy. This project will continue on to aid philosophy students that will go into law school, legal advising, and other technical positions.
+
+# Team
+
+<!--
+{{< github.inline >}}<a href='https://github.com/{{.Get "name"}}' target="_blank"><i class='devicon-github-original'></i> GitHub</a>{{< /github.inline >}}
+{{< linkedin.inline >}}<a href='https://linkedin.com/in/{{.Get "name"}}' target="_blank"><i class='devicon-linkedin-plain'></i> Linkedin</a>{{< /linkedin.inline >}}
+
+-->
+
+- Leafy Wilson (Lead developer/creator of initial website) 
+    - {{< github.inline name="ruthanawilson" />}}
+- Mae B. Morella (Programming lead)
+    - {{< github.inline name="morellam-dev" />}}
+    - {{< linkedin.inline name="morellam" />}}
+- Alexa Garcia (Document lead)
+    - {{< github.inline name="alexagar" />}}
+    - {{< linkedin.inline name="alexa-garcia-553b7721a" />}}
+- Braxton Meyer (Website lead)
+    - {{< github.inline name="BraxtonMDevelops" />}}
+    - {{< linkedin.inline name="braxton-meyer-852aba177" />}}

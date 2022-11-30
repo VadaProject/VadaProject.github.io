@@ -6,6 +6,7 @@ theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
+enableInlineShortcodes = true
 
 [Params]
   tagline = "A collaborative web app for philosophical debate"

@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2022-11-12T11:03:07-05:00
-draft: False
 ---
 
 ## Introduction
@@ -50,3 +49,11 @@ Students and staff in the philosophy department responded very positively to UI 
 - Braxton Meyer (Website lead)
     - {{< github.inline name="BraxtonMDevelops" />}}
     - {{< linkedin.inline name="braxton-meyer-852aba177" />}}
+
+# Docs
+
+Project planning artifacts, required for the final submission in the Senior Project.
+
+* [📄 Project Plan](/docs/project-plan.pdf) (PDF)
+* [📊 Gantt Chart](/docs/gantt-chart.pdf) (PDF)
+* [📑 Final Report](/docs/final-report.pdf) (PDF)

@@ -53,6 +53,10 @@ enableInlineShortcodes = true
   name = "Team"
   url  = "/#team"
   weight = 2
+[[menu.main]]
+  name = "Docs"
+  url  = "/#docs"
+  weight = 3
 
 [markup]
   [markup.goldmark]

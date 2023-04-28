@@ -3,6 +3,8 @@ title: "About"
 date: 2022-11-12T11:03:07-05:00
 ---
 
+**Hello!** This website documents our Fall 2022 Senior Project. If you're a student looking to use the Vada Project website, go to <https://vadaproject.com>. Ciao!
+
 ## Introduction
 
 The Vāda Project is a web application that teaches pramāṇa-vāda, a classic style of philosophical debate developed in ancient India and used for over a millennium.

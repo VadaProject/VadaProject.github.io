@@ -53,6 +53,12 @@ Students and staff in the philosophy department responded very positively to UI 
 
 ![Photo taken at C-day showing the posterboard and four developers.](/images/team_cute.jpg)
 
+<!--
+{{< github.inline >}}<a href='https://github.com/{{.Get "name"}}' target="_blank"><i class='devicon-github-original'></i> GitHub</a>{{< /github.inline >}}
+{{< linkedin.inline >}}<a href='https://linkedin.com/in/{{.Get "name"}}' target="_blank"><i class='devicon-linkedin-plain'></i> Linkedin</a>{{< /linkedin.inline >}}
+
+-->
+
 - Leafy Wilson (Lead developer/creator of initial website) 
     - {{< github.inline name="ruthanawilson" />}}
 - Mae B. Morella (Programming lead)

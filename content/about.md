@@ -7,15 +7,32 @@ date: 2022-11-12T11:03:07-05:00
 
 ## Introduction
 
-The Vāda Project is a web application that teaches pramāṇa-vāda, a classic style of philosophical debate developed in ancient India and used for over a millennium.
+The Vāda Project is a PHP+SQL web application that teaches pramāṇa-vāda, a classic style of philosophical debate developed in ancient India and used for over a millennium.
 
 This debate format is designed to promote critical thought and reflection through its logical structure of theses and counter.
 
 This semester-long project was undertaken as a collaboration between students and faculty within the College of Computing and KSU philosophy department.
 
-Developers acquired the philosophy department’s existing codebase, developed, refactored, and maintained a web-based UI and PHP+SQL server backend to deliver a well-documented and maintainable interactive platform for epistemological discussion.
+Developers acquired the philosophy department’s legacy codebase, refactored, tested, and redesigned the frontend and backend, to deliver a well-documented and useable interactive platform for epistemological discussion.
+
+## Screenshots
+
+The homepage, containing the topics list and group code interface.
+<!-- ![homepage.png](/images/screens/homepage.png) -->
+
+The topic page. Debate is represented by a tree of expandable cards.
+![topic.png](/images/screens/topic.png)
+
+The details of a "Support" claim.
+![inference.png](/images/screens/inference.png)
+
+The interface to create a new Support.
+![supportform.png](/images/screens/supportform.png)
 
 ## Methods
+
+<span style="font-size: 100px"><i class="devicon-php-plain colored"></i> <i class="devicon-mysql-plain-wordmark colored"></i> <i class="devicon-composer-line-wordmark colored"></i> <i class="devicon-go-original-wordmark colored"></i> <i class="devicon-hugo-plain-wordmark colored"></i></span>          
+
 Through weekly meetings with end-users, and closely following the software development life cycle, a team of student developers delivered a codebase which emphasizes,
 
 1. Usability and accessibility
@@ -34,11 +51,7 @@ Students and staff in the philosophy department responded very positively to UI 
 
 # Team
 
-<!--
-{{< github.inline >}}<a href='https://github.com/{{.Get "name"}}' target="_blank"><i class='devicon-github-original'></i> GitHub</a>{{< /github.inline >}}
-{{< linkedin.inline >}}<a href='https://linkedin.com/in/{{.Get "name"}}' target="_blank"><i class='devicon-linkedin-plain'></i> Linkedin</a>{{< /linkedin.inline >}}
-
--->
+![Photo taken at C-day showing the posterboard and four developers.](/images/team_cute.jpg)
 
 - Leafy Wilson (Lead developer/creator of initial website) 
     - {{< github.inline name="ruthanawilson" />}}

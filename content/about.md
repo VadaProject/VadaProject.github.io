@@ -18,7 +18,7 @@ Developers acquired the philosophy department’s legacy codebase, refactored, t
 ## Screenshots
 
 The homepage, containing the topics list and group code interface.
-<!-- ![homepage.png](/images/screens/homepage.png) -->
+![homepage.png](/images/screens/homepage.png)
 
 The topic page. Debate is represented by a tree of expandable cards.
 ![topic.png](/images/screens/topic.png)

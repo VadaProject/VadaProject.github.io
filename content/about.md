@@ -62,7 +62,7 @@ Students and staff in the philosophy department responded very positively to UI 
 - Leafy Wilson (Lead developer/creator of initial website) 
     - {{< github.inline name="ruthanawilson" />}}
 - Mae B. Morella (Programming lead)
-    - {{< github.inline name="morellam-dev" />}}
+    - {{< github.inline name="mmorella-dev" />}}
     - {{< linkedin.inline name="morellam" />}}
 - Alexa Garcia (Document lead)
     - {{< github.inline name="alexagar" />}}

@@ -4,7 +4,6 @@ title = 'Vada Project'
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableInlineShortcodes = true
 
@@ -17,7 +16,6 @@ enableInlineShortcodes = true
   favicon = "/images/icon.svg"
   opengraphImage = "/images/opengraph.png"
   email = ""
-  googleTagManager = ""
   customCSS = false
 
   # Disable all besides the GitHub
